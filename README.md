@@ -38,7 +38,7 @@ Aquí comparto **laboratorios, scripts, apuntes y guías** centrados principalme
 
 ### 🔐 Laboratorios de Ciberseguridad
 
-- [EJPTV2-GUIA](https://github.com/RaulRodelgo/EJPTV2-GUIA)  
+- [EJPTV2-GUIA](https://raulrodelgo.github.io/EJPTV2-GUIA/)  
   Guía y recursos relacionados con la certificación eJPT v2.
 
 ---
